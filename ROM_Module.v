@@ -2,9 +2,6 @@
 //  Module Name: ROM_Module
 //  Description : Serves as the Program ROM memory from which instructions
 //  are fetched
-//  Specifications : Word size = 8 bits
-//  Depth = 2048
-//  Total Size = 2KB
 //  */
 // `timescale 1ns / 1ps
 
